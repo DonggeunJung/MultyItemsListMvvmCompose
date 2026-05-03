@@ -4,8 +4,8 @@
 
 
 <div>
-<img src="https://github.com/DonggeunJung/MultyItemsListMvvmCompose/blob/main/CardsMvvmCompose_Capture01.png?raw=true width="200px"></img>
-<img src="https://github.com/DonggeunJung/MultyItemsListMvvmCompose/blob/main/CardsMvvmCompose_Capture02.png?raw=true width="200px"></img>
+<img src="https://github.com/DonggeunJung/MultyItemsListMvvmCompose/blob/main/CardsMvvmCompose_Capture01.jpg?raw=true width="200px"></img>
+<img src="https://github.com/DonggeunJung/MultyItemsListMvvmCompose/blob/main/CardsMvvmCompose_Capture02.jpg?raw=true width="200px"></img>
 </div>
 
 
